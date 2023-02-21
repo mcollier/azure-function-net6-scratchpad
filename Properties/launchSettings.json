@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "az_func_net6_inproc_logging": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7103",
+      "launchBrowser": false
+    }
+  }
+}
